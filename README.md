@@ -3,8 +3,6 @@
 
 # Controllers
 
----
----
 ## Accounts controller
 
 ### /accounts/index/
